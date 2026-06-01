@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<SubsystemsOrder>
+		<Subsystem>Subsystem.Администрирование</Subsystem>
+		<Subsystem>Subsystem.Анкетирование</Subsystem>
+		<Subsystem>4f4a8684-a037-4cf8-8ee3-e1f0155b2db9</Subsystem>
+		<Subsystem>441eb728-1324-4343-8a64-b6636e9c8ed3</Subsystem>
+		<Subsystem>12e82029-9a83-438b-b5c1-ec9391fc0e4a</Subsystem>
+		<Subsystem>b62e0226-f880-4263-b67b-ba061e392805</Subsystem>
+	</SubsystemsOrder>
+</CommandInterface>
